@@ -27,4 +27,5 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - Pure > Idempotent > Side-effects > Implicitly injected behaviour
 - If a piece of code requires comments to explain it, the code should be simplified
 - No one should "own" discoveries. They're just there to be found and shared with everyone.
-- Opinionated is better, even if it's not your own opinion
+- Opinionated is better than multiple opinions, even if it's not your own opinion
+- Everything that can be linted, should be linted
